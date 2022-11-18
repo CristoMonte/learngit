@@ -13,7 +13,7 @@
   "author": "cristo<18279185327@163.com>",
   "license": "MIT",
   "dependencies": {
-    "mdx-deck": "1.10.2",
+    "mdx-deck": "4.1.1",
     "mdx-deck-code-surfer": "^0.5.5",
     "postcss": "^7.0.14",
     "postcss-selector-parser": "^6.0.2",
